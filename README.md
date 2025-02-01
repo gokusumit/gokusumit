@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Sumit Verma</h1>
-<h3 align="center">A Aspiring Software developer from India</h3>
+<h3 align="center"> A Software Engineer in Techugo Private Limited</h3>
 <img align="right" alt="coding" width="400px" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gokusumit&label=Profile%20views&color=0e75b6&style=flat" alt="gokusumit" /> </p>
 
-- 🔭 I’m currently working on **social media**
+- 🔭 I’m currently working on **Real Time Chat Application**
 
-- 🌱 I’m currently learning **Express js , Mongoose**
+- 🌱 I’m currently learning **Backend Technologies*
 
-- 💬 Ask me about **Reactjs , DSA , Redux**
+- 💬 Ask me about **Reactjs , DSA , Express js , Rest Api**
 
-- 📫 How to reach me **sumitverma2231@gmail.com**
+- 📫 How to reach me **sumitverma80815@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
